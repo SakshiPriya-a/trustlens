@@ -4,7 +4,7 @@ import base64
 import time
 
 
-MODEL = "gemini-3.5-flash"
+MODEL = "gemini-3.5-flash-lite"
 
 
 def get_gemini_key():
