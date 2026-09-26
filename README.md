@@ -209,8 +209,8 @@ trustlens/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-TRUSTLENS-REPOSITORY.git
-cd YOUR-TRUSTLENS-REPOSITORY
+git clone https://github.com/SakshiPriya-a/trustlens.git
+cd https://github.com/SakshiPriya-a/trustlens
 ```
 
 ### 2. Install dependencies
